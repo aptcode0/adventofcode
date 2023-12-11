@@ -11,3 +11,4 @@ https://adventofcode.com/2023
 | 6 | [Wait For It](https://adventofcode.com/2023/day/6) | [1.go](./day6/solution/part1.go) | [2.go](./day6/solution/part2.go) |
 | 7 | [Camel Cards](https://adventofcode.com/2023/day/7) | [1.go](./day7/solution/part1.go) | [2.go](./day7/solution/part2.go) |
 | 8 | [Haunted Wasteland](https://adventofcode.com/2023/day/8) | [1.go](./day8/solution/part1.go) | [2.go](./day8/solution/part2.go) |
+| 9 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | [1.go](./day9/solution/part1.go) | [2.go](./day9/solution/part2.go) |
