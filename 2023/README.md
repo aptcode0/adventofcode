@@ -16,3 +16,4 @@ https://adventofcode.com/2023
 | 11 | [Cosmic Expansion](https://adventofcode.com/2023/day/11) | [1.go](./day11/solution/part1.go) | [2.go](./day11/solution/part2.go) |
 | 12 | [Hot Springs](https://adventofcode.com/2023/day/12) | [1.go](./day12/solution/part1.go) | [2.go](./day12/solution/part2.go) |
 | 13 | [Point of Incidence](https://adventofcode.com/2023/day/13) | [1.go](./day13/solution/part1.go) | [2.go](./day13/solution/part2.go) |
+| 14 | [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | [1.go](./day14/solution/part1.go) | [2.go](./day14/solution/part2.go) |
