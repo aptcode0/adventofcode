@@ -18,3 +18,4 @@ https://adventofcode.com/2023
 | 13 | [Point of Incidence](https://adventofcode.com/2023/day/13) | [1.go](./day13/solution/part1.go) | [2.go](./day13/solution/part2.go) |
 | 14 | [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | [1.go](./day14/solution/part1.go) | [2.go](./day14/solution/part2.go) |
 | 15 | [Lens Library](https://adventofcode.com/2023/day/15) | [1.go](./day15/solution/part1.go) | [2.go](./day15/solution/part2.go) |
+| 16 | [The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | [1.go](./day16/solution/part1.go) | [2.go](./day16/solution/part2.go) |
